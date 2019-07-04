@@ -1,4 +1,4 @@
-#!/Users/sourav/Desktop/Projects/rest_api_test/env/bin/python3.7
+#!/home/ubuntu/report_automation/backend/env/bin/python3
 from django.core import management
 
 if __name__ == "__main__":

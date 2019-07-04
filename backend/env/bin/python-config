@@ -1,4 +1,4 @@
-#!/Users/sourav/Desktop/Projects/rest_api_test/env/bin/python
+#!/home/ubuntu/report_automation/backend/env/bin/python
 
 import sys
 import getopt
